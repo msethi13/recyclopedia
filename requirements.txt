@@ -3,3 +3,4 @@ flask
 openai
 tensorflow-probability
 wandb
+opencv-python
